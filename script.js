@@ -1,4 +1,5 @@
 let userName = '' ; // Enter your Name inside single quotes
+
 if (userName != ''){
   console.log(`Hello ${userName}`)
 }
