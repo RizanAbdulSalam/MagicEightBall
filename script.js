@@ -11,7 +11,7 @@ const userQuestion = ''; //write your question
 console.log(`${userName} asked ${userQuestion}`)
 
 let randomNumber = Math.floor(Math.random() * 5)
-let eightBall = '';
+let eightBall= '';
 
 if(randomNumber === 0){
   eightBall = 'It is certain'
