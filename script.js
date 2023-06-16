@@ -7,8 +7,10 @@ else{
   console.log("Hello")
 }
 
+
 const userQuestion = ''; //write your question
 console.log(`${userName} asked ${userQuestion}`)
+
 
 let randomNumber = Math.floor(Math.random() * 5)
 let eightBall= '';
